@@ -1,1 +1,1 @@
-Form class_03 Authenticate Crispy one page Form
+Form class_03 Authenticate and CRUD "Crispy" one pager moddhe sobkichu..
